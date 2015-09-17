@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="ssh://git-codecommit.us-east-1.amazonaws.com/v1/repos/MicrosLookAlike" />
+  <component name="PublishConfigData" serverName="ssh://git-codecommit.us-east-1.amazonaws.com/v1/repos/MicrosLookAlike" uploadOnCheckin="1ec7c1d2-03ef-478a-875d-0037f7edbb09">
+    <option name="myUploadOnCheckinName" value="ssh://git-codecommit.us-east-1.amazonaws.com/v1/repos/MicrosLookAlike (1)" />
+  </component>
 </project>

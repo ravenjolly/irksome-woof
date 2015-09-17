@@ -26,6 +26,7 @@ public class Main extends Application{
     public static Text success = new Text("Successss");
     public static Text failed = new Text("failed");
 
+    public static Text currentUser;
 
 
     public static String list;
@@ -35,6 +36,9 @@ public class Main extends Application{
 
     public static int connectedBool = 0;
     public static int loginChecker = 0;
+
+    public static Stage primaryStage;
+
     public void start(Stage primaryStage) {
 
 
@@ -81,6 +85,7 @@ public class Main extends Application{
                 hbox.getChildren().add(failed);
             }else{
                 hbox.getChildren().add(success);
+                hbox.getChildren().add(currentUser);
             }
 
         });
